@@ -2,6 +2,7 @@
 #include <iomanip>
 using namespace std;
 
+// Pattern Print as rectangle
 int main() {
     int height, width;
     char symbol;
